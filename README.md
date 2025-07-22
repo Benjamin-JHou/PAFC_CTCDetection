@@ -179,7 +179,12 @@ for epoch in range(10):
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This repository is provided under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), which allows you to:
+
+- Use the code for any purpose, including research and commercial projects.
+- Modify and distribute the code, provided that derivative works are also released under the GPL-3.0 license.
+
+For more information about the GPL-3.0 license and its permissions and restrictions, please refer to the [official GNU GPL-3.0 page](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ---
 
