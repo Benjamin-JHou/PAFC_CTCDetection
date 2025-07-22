@@ -1,19 +1,19 @@
 
-# PAFC_CTCDetection: Photoacoustic Flow Cytometry Melanoma Signal Analysis
+# PAFC‑SIGMA: Photoacoustic Flow Cytometry Signal & Genomics Melanoma Analysis
 
-This repository provides a complete workflow and reproducible codebase for **photoacoustic flow cytometry (PAFC)** signal analysis to distinguish **melanoma circulating tumor cells (CTCs)** from healthy controls. It covers signal denoising, feature extraction (time-domain, frequency-domain, noise, morphology), fingerprint construction, gene association, classification, and self-supervised learning models (Transformer & Mamba).  
+PAFC‑SIGMA is a comprehensive computational framework for analyzing **photoacoustic flow cytometry (PAFC) signals** and integrating them with **genomic immunogenicity data** to differentiate melanoma patients from healthy controls. It provides modules for signal denoising, time/frequency/morphological feature extraction, gene‑feature association studies, fingerprint construction, and advanced classification using **CNN–Transformer** and **self‑supervised Transformer–Mamba** architectures. The toolkit supports hierarchical feature analysis, statistical evaluation with multiple testing corrections, and interpretable visualization of diagnostic signatures, enabling robust discovery of melanoma‑associated spectroscopic and genetic biomarkers.
 
 ---
 
 ## 📋 Features
 
-✅ Data pre-processing, adaptive segmentation and signal denoising with Kalman & wavelet filters.  
-✅ Time-domain, frequency-domain, noise, and morphological feature extraction.  
-✅ Hierarchical photoacoustic fingerprint construction.  
-✅ Gene-immunogenicity association and statistical analysis.  
-✅ Multi-algorithm classification pipeline with cross-validation & feature selection.  
-✅ Transformer & Mamba-based self-supervised representation learning.  
-✅ Multi-task CNN-Transformer model with attention heatmaps & Grad-CAM.  
+✅ Data pre-processing, adaptive segmentation and signal denoising with Kalman & wavelet filters    
+✅ Time-domain, frequency-domain, noise, and morphological feature extraction    
+✅ Hierarchical photoacoustic fingerprint construction    
+✅ Gene-immunogenicity association and statistical analysis    
+✅ Multi-algorithm classification pipeline with cross-validation & feature selection    
+✅ Transformer & Mamba-based self-supervised representation learning    
+✅ Multi-task CNN-Transformer model with attention heatmaps & Grad-CAM    
 
 ---
 
