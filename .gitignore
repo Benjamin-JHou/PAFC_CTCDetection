@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.tmp
+*.log
+*.mat
+*.pth
+*.onnx
+.DS_Store
+.env
+venv/
+data/
+outputs/
+checkpoints/
